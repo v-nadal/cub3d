@@ -12,7 +12,6 @@ This project is using 42 graphic library: minilibx
 Without bonus: <br>
 ```
 make && ./cub3d maps/the_map_that_you_want
-
 ```
 
 With bonus: <br>
