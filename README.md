@@ -9,6 +9,8 @@ make a dynamic view inside a maze, in which you’ll have to find your way.
 This project is using 42 graphic library: minilibx
 
 # Run program
+You will need to install minilibx library at the root of the repository.
+
 Without bonus: <br>
 ```
 make && ./cub3d maps/the_map_that_you_want
