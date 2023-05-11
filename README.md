@@ -5,6 +5,17 @@ make a dynamic view inside a maze, in which you’ll have to find your way.
 # Graphic Library 🖱
 This project is using 42 graphic library: minilibx
 
+# Run program
+Without bonus: <br>
+```
+make && ./cub3d maps/the_map_that_you_want
+```
+
+With bonus: <br>
+```
+make bonus && ./cub3d maps_bonus/the_map_that_you_want
+```
+
 # Controls 💻
 Without bonus: <br>
 &ensp;&ensp;You need to use WASD keys to move around<br>
@@ -12,7 +23,7 @@ Without bonus: <br>
   
 With bonus: <br>
 &ensp;&ensp;You need to use WASD to move around<br>
-&ensp;&ensp;You can use mouse to rotate the camera or use ⬅➡⬆⬇ keys<br>
+&ensp;&ensp;You can use your mouse to rotate the camera or use ⬅➡⬆⬇ keys<br>
 
 # Bonus 📍
 <ul style="list-style-type: disc">
